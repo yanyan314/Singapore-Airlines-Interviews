@@ -1,6 +1,6 @@
 # Singapore-Airlines-Interviews
 
-#How would you familiarize yourself with your work in a situation where all your colleagues and your boss are preoccupied?
+# How would you familiarize yourself with your work in a situation where all your colleagues and your boss are preoccupied?
 
 I have that experience when I worked at IBM. The first week when I joined IBM, all my colleagues and my boss were preoccupied and they were busy working on one release, I would approach familiarizing myself with my work by leveraging my past experiences and technical skills. Firstly, I would thoroughly review any documentation or existing code related to the project to understand the current state and requirements. 
 
