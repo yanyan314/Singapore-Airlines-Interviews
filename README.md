@@ -74,5 +74,10 @@ For instance, in my previous project, we had a service layer that was tightly co
 
 Furthermore, I make use of Spring's modular architecture by dividing the application into smaller, manageable parts known as modules. Each module encapsulates specific functionalities and can be developed and tested independently. By leveraging Spring's support for modularization through components like Spring Boot and Spring MVC, I ensure that each module remains cohesive while still being loosely coupled with other parts of the system, improving maintainability and scalability.
 
+# 7.How does the body in a GET request get handled differently from the body in a POST request?
+In a GET request, the body of the request is typically empty because GET requests are used to retrieve data from a server rather than sending data to a server. GET requests are meant to be idempotent, meaning they should not have any side effects on the server. On the other hand, in a POST request, the body of the request is used to send data to the server, such as form submissions or JSON data. POST requests are not idempotent and can have side effects, like creating a new resource on the server's database.
+
+By understanding the differences in how GET and POST requests handle the body of the request, software engineers can design more efficient and secure APIs that align with the intended functionality of each HTTP method.
+
  
 
