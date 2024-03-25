@@ -60,3 +60,11 @@ Here are the major drawbacks and issues of the microservice architecture:
  I consistently prioritized tasks based on their impact on project timelines, customer satisfaction, and revenue generation. We use a tracking system that Jira tickets will be created for each task, We will have a sprint planning meeting to estimation the time spend on the tasks and then collaborate with the product management team to understand the business priorities and set tasks priority with agreement with my manager.
  Additionally, we use a Kanban board to visually represent the status of each ticket, making it easier to identify bottlenecks and adjust priorities as needed. This visual representation not only helped me stay organized but also enabled the team to work collaboratively towards achieving our project goals. Overall, my approach to prioritizing tasks by effective communication with stakeholders and product management team.
 
+# 5.Why are you keen to work in aviation?
+I am keen to work in aviation because of my passion for technology and innovation in the industry. As demonstrated in my resume, I have a solid background in programming, especially in developing software solutions that optimize operations and improve efficiency. I believe that bringing my technical skills and problem-solving abilities to the aviation sector can contribute to streamlining processes and enhancing the overall passenger experience.
+
+Furthermore, aviation is an industry that operates on a global scale, presenting diverse challenges that require constant adaptation and learning. This aligns with my career goal of working in a dynamic environment where I can continuously grow and expand my expertise. I am excited about the opportunity to be part of the aviation industry, where I can leverage my programming skills to make a tangible impact and be involved in shaping the future of air travel.
+
+And I also had very good user experience with sigapore airline, no only during the process that I booked ticket from the website but also the services during the travelling.
+ 
+
