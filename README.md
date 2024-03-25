@@ -56,3 +56,7 @@ Here are the major drawbacks and issues of the microservice architecture:
 
     Deciding when to adopt the microservice architecture is difficult.
 
+# 4.How do you prioritize your tasks and tickets?  
+ I consistently prioritized tasks based on their impact on project timelines, customer satisfaction, and revenue generation. We use a tracking system that Jira tickets will be created for each task, We will have a sprint planning meeting to estimation the time spend on the tasks and then collaborate with the product management team to understand the business priorities and set tasks priority with agreement with my manager.
+ Additionally, we use a Kanban board to visually represent the status of each ticket, making it easier to identify bottlenecks and adjust priorities as needed. This visual representation not only helped me stay organized but also enabled the team to work collaboratively towards achieving our project goals. Overall, my approach to prioritizing tasks by effective communication with stakeholders and product management team.
+
