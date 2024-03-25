@@ -96,5 +96,12 @@ If Continuous Integration, Delivery, and Deployment could be summarized with one
 
 In summary, my experience with CI/CD has shown me the importance of automation in the development lifecycle, enabling faster and more reliable releases while maintaining the quality of the product. I am confident in my ability to leverage CI/CD practices effectively to optimize the development and deployment of applications.
 
+# 11.What are the key differences between front-end and back-end development?
+Front-end development primarily focuses on the user interface and user experience of a website or application. This involves working with technologies like HTML, CSS, and JavaScript to create visually appealing and interactive elements that users interact with directly.
+
+On the other hand, back-end development deals with the server-side logic, databases, and ensuring the smooth functioning of the application behind the scenes. It involves languages like Python, Java, and databases like MySQL or MongoDB. In acted as back-end engineer both at IBM and Tomsons Reuters.
+
+Understanding the differences between front-end and back-end development is crucial for delivering a seamless user experience. While front-end focuses on the presentation layer, back-end ensures that the application runs smoothly and efficiently. Both aspects are integral to the success of a website or application, and a balance between the two is essential for a successful development process.
+
  
 
