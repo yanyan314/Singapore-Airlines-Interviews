@@ -79,5 +79,8 @@ In a GET request, the body of the request is typically empty because GET request
 
 By understanding the differences in how GET and POST requests handle the body of the request, software engineers can design more efficient and secure APIs that align with the intended functionality of each HTTP method.
 
+# 8.How much was your expected salary?
+Based on my experience in software engineering and the skills showcased in my resume, I am seeking a competitive salary that reflects the value I can bring to the role of a Software Engineer. Throughout my career, I have consistently delivered high-quality work that has directly contributed to the success of projects. 
+
  
 
