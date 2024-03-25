@@ -82,5 +82,12 @@ By understanding the differences in how GET and POST requests handle the body of
 # 8.How much was your expected salary?
 Based on my experience in software engineering and the skills showcased in my resume, I am seeking a competitive salary that reflects the value I can bring to the role of a Software Engineer. Throughout my career, I have consistently delivered high-quality work that has directly contributed to the success of projects. 
 
+# 9.Describe agile scrum aspects. 
+Agile Scrum is a framework used in software development that emphasizes collaboration, flexibility, and continuous improvement. One important aspect of Agile Scrum is the concept of sprints, which are time-boxed iterations where development work is completed. During my previous role as a Java Developer, my team adopted agile and used 2 weeks sprints. By breaking down the project into manageable chunks, we were able to deliver incremental value to the product and receive feedback from stakeholders more frequently. At the beginning of the sprint, we have a sprint-planning meeting, in that meeting, we will priority the tasks and put tasks in that sprint.
+
+Another key aspect of Agile Scrum is the daily stand-up meetings, also known as daily scrums. These brief meetings provided my team with the opportunity to discuss progress, challenges, and coordinate efforts to ensure alignment towards our sprint goals. I found these daily interactions to be highly beneficial in fostering communication and transparency within the team.
+
+Furthermore, Agile Scrum promotes the use of retrospective meetings at the end of each sprint to reflect on what went well, what could be improved, and action items for the next sprint. In one particular project, after conducting a retrospective, we identified a bottleneck in our deployment process that was causing delays. By addressing this issue and streamlining our deployment pipeline, we were able to reduce our release cycle time , resulting in quicker delivery of features to our customers.
+
  
 
