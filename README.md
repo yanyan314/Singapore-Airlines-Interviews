@@ -66,5 +66,13 @@ I am keen to work in aviation because of my passion for technology and innovatio
 Furthermore, aviation is an industry that operates on a global scale, presenting diverse challenges that require constant adaptation and learning. This aligns with my career goal of working in a dynamic environment where I can continuously grow and expand my expertise. I am excited about the opportunity to be part of the aviation industry, where I can leverage my programming skills to make a tangible impact and be involved in shaping the future of air travel.
 
 And I also had very good user experience with sigapore airline, no only during the process that I booked ticket from the website but also the services during the travelling.
+
+# 6.How to integrate modules in Spring?
+To integrate modules in Spring, I rely on my experience with building scalable and modular applications using Spring Framework. One approach I've utilized is dependency injection, a core concept in Spring, to manage the dependencies between different modules. By configuring components in the Spring container and injecting dependencies through annotations or XML configuration, I ensure loose coupling and flexibility within the application.
+
+For instance, in my previous project, we had a service layer that was tightly coupled with the data access layer. Upon refactoring, I introduced Spring's @Autowired annotation to inject the repository dependencies into the service layer, reducing the coupling and making it easier to swap out implementations without affecting other modules. 
+
+Furthermore, I make use of Spring's modular architecture by dividing the application into smaller, manageable parts known as modules. Each module encapsulates specific functionalities and can be developed and tested independently. By leveraging Spring's support for modularization through components like Spring Boot and Spring MVC, I ensure that each module remains cohesive while still being loosely coupled with other parts of the system, improving maintainability and scalability.
+
  
 
