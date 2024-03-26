@@ -106,5 +106,14 @@ Understanding the differences between front-end and back-end development is cruc
 # 12.questions
 If I am lucky to join the company, what's the biggest changllenge for the position? and what skills I can prepared in advance for the job?
 
+# 13.AI
+powerful applications enabled by LLMs is sophisticated question-answering (Q&A) chatbots. These are applications that can answer questions about specific source information. These applications use a technique known as Retrieval Augmented Generation, or RAG.
+RAG is a technique for augmenting LLM knowledge with additional data.
+LLMs can reason about wide-ranging topics, but their knowledge is limited to the public data up to a specific point in time that they were trained on. If you want to build AI applications that can reason about private data or data introduced after a model’s cutoff date, you need to augment the knowledge of the model with the specific information it needs. The process of bringing the appropriate information and inserting it into the model prompt is known as Retrieval Augmented Generation (RAG).
+
+LangChain is a framework for developing applications powered by language models. Before your chosen LLM can act on your data, you first need to process the data and load it. We use llamindex to Load the data
+Transform the data and Index and store the data in  With your data loaded, you now have a list of Document objects (or a list of Nodes). It's time to build an Index over these objects so you can start querying them. Vector Store Index embeds your documents. embedding, is a numerical representation of the semantics, or meaning of your text. Once the ranking is complete, VectorStoreIndex returns the most-similar embeddings as their corresponding chunks of text. The number of embeddings it returns is known as k, so the parameter controlling how many embeddings to return is known as top_k. This whole type of search is often referred to as "top-k semantic retrieval" for this reason.
+
+
  
 
