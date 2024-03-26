@@ -115,6 +115,9 @@ LangChain is a framework for developing applications powered by language models.
 Transform the data and Index and store the data in  With your data loaded, you now have a list of Document objects (or a list of Nodes). It's time to build an Index over these objects so you can start querying them. Vector Store Index embeds your documents. embedding, is a numerical representation of the semantics, or meaning of your text. Once the ranking is complete, VectorStoreIndex returns the most-similar embeddings as their corresponding chunks of text. The number of embeddings it returns is known as k, so the parameter controlling how many embeddings to return is known as top_k. This whole type of search is often referred to as "top-k semantic retrieval" for this reason.
 ![image](https://github.com/yanyan314/Singapore-Airlines-Interviews/assets/48904657/5cf55597-6b8a-4c29-ad68-2fc2d11889d5)
 
+![image](https://github.com/yanyan314/Singapore-Airlines-Interviews/assets/48904657/1e747420-32d5-4d27-887e-ab17b2d9eb67)
+
+
 
 
  
