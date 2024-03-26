@@ -103,5 +103,8 @@ On the other hand, back-end development deals with the server-side logic, databa
 
 Understanding the differences between front-end and back-end development is crucial for delivering a seamless user experience. While front-end focuses on the presentation layer, back-end ensures that the application runs smoothly and efficiently. Both aspects are integral to the success of a website or application, and a balance between the two is essential for a successful development process.
 
+# 12.questions
+If I am lucky to join the company, what's the biggest changllenge for the position? and what skills I can prepared in advance for the job?
+
  
 
