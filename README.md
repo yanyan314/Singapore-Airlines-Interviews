@@ -120,6 +120,10 @@ Transform the data and Index and store the data in  With your data loaded, you n
 
 ![image](https://github.com/yanyan314/Singapore-Airlines-Interviews/assets/48904657/1e747420-32d5-4d27-887e-ab17b2d9eb67)
 
+# HR interview
+# 1. What do you know about singapore airline? Why do you want to work for singapore airline?
+
+
 
 
 
