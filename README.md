@@ -81,6 +81,7 @@ By understanding the differences in how GET and POST requests handle the body of
 
 # 8.How much was your expected salary?
 Based on my experience in software engineering and the skills showcased in my resume, I am seeking a competitive salary that reflects the value I can bring to the role of a Software Engineer. Throughout my career, I have consistently delivered high-quality work that has directly contributed to the success of projects. 
+Currently, my annual salary is approximately 450,000 RMB. I am looking for a similar salary range in my next position, with a potential increase of around 5% if possible. However, salary is not my primary consideration. I place greater importance on the company's development, prospects, and culture
 
 # 9.Describe agile scrum aspects. 
 Agile Scrum is a framework used in software development that emphasizes collaboration, flexibility, and continuous improvement. One important aspect of Agile Scrum is the concept of sprints, which are time-boxed iterations where development work is completed. During my previous role as a Java Developer, my team adopted agile and used 2 weeks sprints. By breaking down the project into manageable chunks, we were able to deliver incremental value to the product and receive feedback from stakeholders more frequently. At the beginning of the sprint, we have a sprint-planning meeting, in that meeting, we will priority the tasks and put tasks in that sprint.
