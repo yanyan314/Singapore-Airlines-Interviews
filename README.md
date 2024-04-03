@@ -125,6 +125,9 @@ Transform the data and Index and store the data in  With your data loaded, you n
 # 1. What do you know about singapore airline? Why do you want to work for singapore airline?
  Singapore Airlines is a world-class airline that prioritizes exceptional service, operational excellence, and passenger satisfaction. With its extensive network, commitment to innovation, SIA continues to be a leading choice for travelers seeking a premium travel experience.
  Furthermore, SIA places great emphasis on innovation and continuously seeks to enhance the travel experience for its passengers.
+# 2. Questions
+   1) Could you share more about the team structure and communication channels within the company?
+   2) What do you consider to be the key to success in this position?
 
 
 
