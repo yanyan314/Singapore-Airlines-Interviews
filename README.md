@@ -128,6 +128,7 @@ Transform the data and Index and store the data in  With your data loaded, you n
 # 2. Questions
    1) Could you share more about the team structure and communication channels within the company?
    2) What do you consider to be the key to success in this position?
+   3) What skills or qualities do you believe are essential for success in this role?
 
 
 
