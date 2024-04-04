@@ -129,6 +129,8 @@ Transform the data and Index and store the data in  With your data loaded, you n
    1) Could you share more about the team structure and communication channels within the company?
    2) What do you consider to be the key to success in this position?
    3) What skills or qualities do you believe are essential for success in this role?
+# 3. Self introduction for HR
+   This is Zhang Yan Yan. I have more than 16 years working experience as software developer. I have solid experience on design and implement systems that with high availbilty, performace and scalability. I also experienced in CI/CD pipeline and deployment services on AWS. I believe that bringing my technical skills and problem-solving abilities to sigapore airline can contribute to enhancing the overall passenger experience.
 
 
 
