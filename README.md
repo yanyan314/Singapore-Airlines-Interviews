@@ -123,7 +123,7 @@ Transform the data and Index and store the data in  With your data loaded, you n
 
 # HR interview
 # 1. What do you know about singapore airline? Why do you want to work for singapore airline?
- Singapore Airlines is a world-class airline that prioritizes exceptional service, operational excellence, and passenger satisfaction. With its extensive network, commitment to innovation, SIA continues to be a leading choice for travelers seeking a premium travel experience.
+ Singapore Airlines is a world-class airline. As one of the most famous airlines in the world, it provides exceptional service, operational excellence, and passenger satisfaction. With its extensive network, commitment to innovation, SIA continues to be a leading choice for travelers seeking a premium travel experience. I also had very good user experience with sigapore airline, no only during the process that I booked ticket from the website but also the services during the travelling.
  Furthermore, SIA places great emphasis on innovation and continuously seeks to enhance the travel experience for its passengers.
  Singapore airline operates on a global scale, presenting diverse challenges that require constant adaptation and learning. This aligns with my career goal of working in a dynamic environment where I can continuously grow and expand my expertise. I am excited about the opportunity to be part of the aviation industry, where I can leverage my programming skills to make a tangible impact and be involved in shaping the future of air travel.
 
