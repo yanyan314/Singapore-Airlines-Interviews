@@ -134,6 +134,9 @@ Transform the data and Index and store the data in  With your data loaded, you n
 # 3. Self introduction for HR
    This is Zhang Yan Yan. I have more than 16 years working experience as software developer. I have solid experience on design and implement systems with high availbilty, performace and scalability. I also experienced in CI/CD pipeline design and deployment services on AWS. I believe that bringing my technical skills and problem-solving abilities to sigapore airline can contribute to enhancing the overall passenger experience.
 
+# 4. Why you want to leave your previous company?
+   My previous company deciside to move our project to India, so the entire team was laid off at the end of March. We were informed about this six months ago. During this period, we were in charge of building India team including recuitment and knowledge transfer.
+
 
 
 
