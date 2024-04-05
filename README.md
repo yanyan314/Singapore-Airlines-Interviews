@@ -137,6 +137,9 @@ Transform the data and Index and store the data in  With your data loaded, you n
 # 4. Why you want to leave your previous company?
    My previous company deciside to move our project to India, so the entire team was laid off at the end of March. We were informed about this six months ago. During this period, we were in charge of building India team including recuitment and knowledge transfer.
 
+# 5. on-board time
+    I have already left my preious company, so I can come onboard according to the timeline specified by the company.
+
 
 
 
